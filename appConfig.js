@@ -4,7 +4,7 @@ const AppConfig = {
     /**start*/
     serverPort: 5000,
     serverIP: 'localhost',
-    serverPath: 'D:/Uninpho/dhserver',
+    // serverPath: 'D:/Uninpho/dhserver',
     /**end*/
 };
 
